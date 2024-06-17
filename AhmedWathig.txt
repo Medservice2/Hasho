@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Login</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="spinner-container">
+            <div class="spinner"></div>
+            <div class="spinner-logo">
+                <img id="logo" src="https://imgur.com/h5JgHgg.png" alt="Logo">
+            </div>
+        </div>
+        <h1 id="loginTitle">تسجيل الدخول</h1>
+        <input id="phoneNumber" type="text" placeholder="رقم الهاتف">
+        <input id="password" type="password" placeholder="كلمة المرور">
